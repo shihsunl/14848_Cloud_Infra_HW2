@@ -3,8 +3,6 @@
 ## URL for the Docker image that is uploaded to my Docker Hub account
 - https://hub.docker.com/r/shihsunl/14848_cloud_infra_a2
 
-## 
-
 ## Deploy the container to Google Cloud Platform Cluster and run the container on the GCP cluster.
 - GCP Cloud Run
 ![GCP Cloud Run](Docker/screenshot/1-1_Cloud_run.png)
