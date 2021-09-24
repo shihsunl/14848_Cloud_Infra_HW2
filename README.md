@@ -21,3 +21,10 @@
 - Kubernetes cluster
 ![Kubernetes output](Docker/screenshot/Extra-kubernetes_cluster.png)
 
+## Print for the Dockerfile contents and the source code file.
+- Dockerfile
+![Dockerfile](Docker/screenshot/Dockerfile_print.png)
+
+- Source code
+![Source code](Docker/screenshot/Source_code_print.png)
+
